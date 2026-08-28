@@ -96,7 +96,7 @@ body {
 
 /* Background Images */
 .slide:first-child {
-  background: url("https://github.com/hernandezj1/full-screen-image-carousel/blob/master/images/IMG_0229.JPG?raw=true") no-repeat center center/cover;
+  background: url("./images/IMG_0229.JPG") no-repeat center center/cover;
 }
 
 .slide:nth-child(2) {
@@ -104,5 +104,5 @@ body {
 }
 
 .slide:nth-child(3) {
-  background: url("./images/IMG_1866.jpg") no-repeat center top/cover;
+  background: url("./images/IMG_1866.JPG") no-repeat center top/cover;
 }
